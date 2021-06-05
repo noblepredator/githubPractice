@@ -1,0 +1,2 @@
+# githubPractice
+Devops training
